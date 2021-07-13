@@ -6,7 +6,7 @@ export const robots = [
     },
     {
         id:2,
-        name:'Mihir Patel',
+        name:'Mihir Panchal',
         email:'patel.mihir7692@gmail.com'
     },
     {
